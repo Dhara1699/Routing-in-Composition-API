@@ -45,7 +45,8 @@ li {
   padding: 1rem;
 }
 
-h3, h4 {
+h3,
+h4 {
   margin: 0.5rem 0;
 }
 </style>
